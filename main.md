@@ -3,9 +3,9 @@
 ## Tools
 You wont need a lot of equipment to get started, all the required tools are listed below.
 
-- <a href="https://tinyurl.com/2wepuamc" target="_blank">Soldering iron
-
-
+- <a href="https://tinyurl.com/2wepuamc" target="_blank">Soldering iron<a/>
+- <a href="https://tinyurl.com/2p9xcfb9" target="_blank">Soldering station<a/> (optional)
+  -
 
 ## Practice
 **Practice Problem 1**<br/>
