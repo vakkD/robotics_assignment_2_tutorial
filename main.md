@@ -1,3 +1,10 @@
+to add
+- what is a solder sucker
+- how to use solder sucker
+- join two wire to resistor
+- use battery button led to make curcuit as final
+
+
 # Soldering a Small Circuit
 
 ## What is Soldering?
