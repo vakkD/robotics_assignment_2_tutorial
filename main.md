@@ -62,3 +62,4 @@ Before you start soldering, set up your work station and make sure that the fume
   
 ## Challenge
 **Make a small circuit**<br>
+Print out <a href="https://github.com/vakkD/robotics_assignment_2_tutorial/blob/main/ledbuttoncircuit.png?raw=true">this diagram<a/> and glue it to a piece of cardboard, if it has not been already (<a href="https://electronicsclub.info/circuitsymbols.htm">document for circuit symbols if needed<a/>).
