@@ -47,15 +47,18 @@ Before you start soldering, set up your work station and make sure that the fume
 3. Wipe the tip into the brass sponge or regular sponge to clean it.
 4. Hold the iron and solder in each hand. Touch the solder to the tip of the iron and make sure the solder flows evenly around the tip. Doing this each time before soldering will ensure that your iron does not get wrecked.
 
-### Steps
+### Soldering
 1. Mount the components on the board or into the helping hands or position them to begin soldering.
-2. Touch the tip of the iron to either the copper pad and the metal bar of the component or straight onto the wire, depending on what you are soldering.
-3. Continue touching the tip onto the area and touch the solder on the joint. Make sure to not touch the solder directly onto the tip. The joint has to be hot enough to melt the solder, if not it will create a bad connection.
-4. When the solder has melted and is covering the desired area, remove the tip of the iron from the solder and let it cool and harden.
+1. Touch the tip of the iron to either the copper pad and the metal bar of the component or straight onto the wire, depending on what you are soldering.
+1. Continue touching the tip onto the area and touch the solder on the joint. Make sure to not touch the solder directly onto the tip. The joint has to be hot enough to melt the solder, if not it will create a bad connection.
+1. When the solder has melted and is covering the desired area, remove the tip of the iron from the solder and let it cool and harden.
   
 ## Practice
-**Practice 1**<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solder a resistor to a copper wire<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take two small length copper wire and solder a 220 ohms resistor. To do this solder may already have to be applied to one or both of the wires.
+**Practice 1**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solder a resistor to a copper wire<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take two small length copper wire and solder a 220 ohms resistor. To do this solder may already have to be applied to one or both of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the wires.
 <br><br>
 **Practice 2**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove the solder<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the desoldering pump to take apart both components and remove any solder.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove the solder<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the desoldering pump to remove the solder and disassemble back to two wires and a resistor. Make sure that all the solder has &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;been removed from the components.
+  
+## Challenge
+**Make a small circuit**<br>
