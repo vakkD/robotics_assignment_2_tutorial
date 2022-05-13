@@ -1,10 +1,3 @@
-to add
-- what is a solder sucker
-- how to use solder sucker
-- join two wire to resistor
-- use battery button led to make curcuit as final
-
-
 # Soldering a Small Circuit
 
 ## What is Soldering?
@@ -55,11 +48,11 @@ Before you start soldering, set up your work station and make sure that the fume
   
 ## Practice
 **Practice 1**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solder a resistor to a copper wire<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take two small length copper wire and solder a 220 ohms resistor. To do this solder may already have to be applied to one or both of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the wires.
+Solder a resistor to a copper wire<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take two small length copper wire and solder a 220 ohms resistor. To do this solder may already have to be applied to one or both of the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wires.
 <br><br>
 **Practice 2**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remove the solder<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the desoldering pump to remove the solder and disassemble back to two wires and a resistor. Make sure that all the solder has &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;been removed from the components.
+Remove the solder<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Use the desoldering pump to remove the solder and disassemble back to two wires and a resistor. Make sure that all the solder has been &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;removed from the components.
   
 ## Challenge
 **Make a small circuit**<br>
-Print out <a href="https://github.com/vakkD/robotics_assignment_2_tutorial/blob/main/ledbuttoncircuit.png?raw=true">this diagram<a/> and glue it to a piece of cardboard, if it has not been already (<a href="https://electronicsclub.info/circuitsymbols.htm">document for circuit symbols if needed<a/>).
+Print out <a href="https://github.com/vakkD/robotics_assignment_2_tutorial/blob/main/ledbuttoncircuit.png?raw=true">this diagram<a/> and glue it to a piece of cardboard, if it has not been already (<a href="https://electronicsclub.info/circuitsymbols.htm">document for circuit symbols if needed<a/>). And press the components into the board, over where they go on the diagram, connect and solder them together using copper wire.
