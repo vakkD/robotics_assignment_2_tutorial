@@ -40,7 +40,7 @@ Before you start soldering, set up your work station and make sure that the fume
 3. Wipe the tip into the brass sponge or regular sponge to clean it.
 4. Hold the iron and solder in each hand. Touch the solder to the tip of the iron and make sure the solder flows evenly around the tip. Doing this each time before soldering will ensure that your iron does not get wrecked.
 
-### Soldering
+### Soldering (refer to [diagram](#what-is-soldering))
 1. Mount the components on the board or into the helping hands or position them to begin soldering.
 1. Touch the tip of the iron to either the copper pad and the metal bar of the component or straight onto the wire, depending on what you are soldering.
 1. Continue touching the tip onto the area and touch the solder on the joint. Make sure to not touch the solder directly onto the tip. The joint has to be hot enough to melt the solder, if not it will create a bad connection.
